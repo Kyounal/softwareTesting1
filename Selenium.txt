@@ -1,0 +1,24 @@
+Session not created excetion---->2
+because the gap between the version of the chromeBrowser is 2.
+To resolve the this error you have to update the browser.
+-------------------------------------------------------------------------------------------------------
+
+	#What is automation testing?
+
+	->It is a process of testing the software with help of tools(we are using selenium tool).without any manual intervention is called as automation testing
+
+	1)what is scriplet automation?
+	->testing without scripts or coding tool is FireLink.
+
+
+	what is testscript?
+	->it is program or code which is written against the manual test cases by automation tester.
+-------------------------------------------------------------------------------------------------------
+
+      imp*) When we go for automation testing?
+	   ->When new build arises to market we will go for regression testing(testing the uncahged features of the app whenevr updatation is done) nothing but automation testing.
+
+	   ->when time makes sense,when cost makes sense and quality is imporatnt we go for automation testing.
+
+	    ->when we have to perform repetative test thwn we go for autoation testing.
+	
